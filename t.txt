@@ -1,0 +1,21 @@
+🔵 Google AdWords *
+🔵 *Google Analytics* 
+🔵 *Google Tag Manager*
+🔵 *Google Search Console*
+🔵 *PageSpeed Insights*
+🔵 CapCut / Vídeos
+🔵 RD Station
+🔵 Salesforce
+🔵 Hubspot
+🔵 Office
+🔵 Evo
+
+  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-W95EXVZV32"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-W95EXVZV32');
+</script>
